@@ -1,2 +1,2 @@
 # DesignPatterns-
-Sample Implementations of design patterns in Swift 
+Sample Implementations of design patterns in Swift .
